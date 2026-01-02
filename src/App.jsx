@@ -60,7 +60,7 @@ const App = () => {
             <div className="contact-row">
               <div className="contact-item">+91 9207854405</div>
               <div className="contact-item">ajithsreedu@yahoo.co.in</div>
-              <div className="contact-item">India / GCC Experience</div>
+              <div className="contact-item">Kerala/India</div>
             </div>
           </div>
         </div>
